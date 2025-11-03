@@ -52,6 +52,8 @@ O fluxo de trabalho (pipeline) da aplicação segue rigorosamente as etapas de u
 
 6. **Visualização (`app.py`):** Renderização dos resultados no dashboard Streamlit, incluindo gráficos de barras e comparativos.
 
+---
+
 ### Execução do Projeto
 
 Para rodar o projeto localmente, siga os seguintes passos:
@@ -131,6 +133,8 @@ The application's workflow (pipeline) strictly follows the steps of a Data Scien
 5. **Persistence (`db_connector.py`):** Saving the synthesis, sentiment distribution, and timestamp to the history.
 
 6. **Visualização (`app.py`):** Rendering the results on the Streamlit dashboard, including bar charts and comparisons.
+
+---
 
 ### Project Execution
 
